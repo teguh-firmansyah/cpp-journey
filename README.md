@@ -41,5 +41,5 @@ Welcome to my C++ repository! This section documents my roadmap, projects, miles
 
 ## 📂 Featured Projects
 
-| Project Name | Description | Key Concepts Used | Status |
+| Project Name | Description | Status |
 | :--- | :--- | :--- | :---: |
