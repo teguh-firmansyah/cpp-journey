@@ -39,7 +39,6 @@ Welcome to my C++ repository! This section documents my roadmap, projects, miles
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 | Project Name | Description | Status |
-| :--- | :--- | :--- | :---: |
