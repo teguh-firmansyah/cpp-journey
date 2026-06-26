@@ -33,10 +33,11 @@ int main()
     // Bolean
     bool b = true; // true/false;
 
-    cout << dataShort << endl;
-    cout << sizeof(dataShort) << " byte" << endl;
-    cout << numeric_limits<short>::max() << endl;
-    cout << numeric_limits<short>::min() << endl;
+    cout << dataInt << endl;
+    cout << sizeof(dataInt) << " byte" << endl;
+    cout << numeric_limits<unsigned int>::max() << endl;
+    cout << numeric_limits<int>::max() << endl;
+    cout << numeric_limits<int>::min() << endl;
 
     cin.get();
     return 0;
