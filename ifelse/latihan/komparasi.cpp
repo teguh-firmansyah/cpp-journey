@@ -66,7 +66,7 @@ int main()
     cout << "Masukkan nilai ujian kamu : ";
     cin >> angka1;
 
-    if (angka1 >= 80)
+    if (angka1 >= kkm)
     {
         cout << "Selamat kamu lulus ujian";
     }
